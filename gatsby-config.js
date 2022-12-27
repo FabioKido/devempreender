@@ -1,10 +1,15 @@
 /**
- * @type {import('gatsby').GatsbyConfig}
+ * @type {
+ *  import('gatsby').GatsbyConfig
+ * }
  */
+
 module.exports = {
   siteMetadata: {
     title: `devempreender`,
-    siteUrl: `https://www.yourdomain.tld`,
+    siteUrl: `https://devempreender.com/`,
   },
-  plugins: [],
+  plugins: [
+    'gatsby-plugin-postcss',
+  ],
 }
