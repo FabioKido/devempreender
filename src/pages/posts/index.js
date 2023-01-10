@@ -45,7 +45,7 @@ const PostPage = () => {
     <div className="bg-white py-24 sm:py-32 lg:py-40">
       <div className="mx-auto max-w-7xl px-6 lg:px-8">
         <div className="sm:text-center">
-          <h2 className="text-lg font-semibold leading-8 text-indigo-600">Leiam nossos Posts</h2>
+          <h2 className="text-lg font-semibold leading-8 text-indigo-600">Todos os Posts</h2>
           <p className="mt-2 text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl"><strong className="text-yellow-500">Dev</strong>emos <strong className="text-yellow-500">empreender</strong> sempre que possível</p>
           <p className="mx-auto mt-6 max-w-4xl text-lg leading-8 text-gray-600 text-justify tab">
           Porque nós DEV's empreendemos ou deviamos? Nós programadores possuimos a habilidade de transformar ideias em realidade através do código. Empreender permite que usemos nossas habilidades de forma criativa e inovadora para criar soluções úteis e valiosas para nossos usuários, além de permitir que nós tenhamos mais controle sobre nosso próprio destino e crescimento profissional. Empreender também oferece a oportunidade de fazer a diferença na sociedade, contribuindo para o desenvolvimento de novas tecnologias e soluções que podem ajudar a melhorar a vida das pessoas.
